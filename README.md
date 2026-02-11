@@ -1,6 +1,6 @@
 <h1>ReducerPulse</h1>
 
-https://app-contextt.netlify.app/
+https://reducerpulse.netlify.app/
 
 <div>
   Training project on useReducer, useMemo and Context API
