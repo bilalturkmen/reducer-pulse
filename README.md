@@ -10,9 +10,9 @@ https://app-contextt.netlify.app/
 
 To demonstrate how useReducer can be used as a powerful alternative to external state libraries while maintaining clean, scalable architecture in real-world scenarios.
 
-⚙️ useReducer for predictable state transitions
-🧠 useMemo for performance optimization
-🌍 Context API for global state sharing
+- ⚙️ useReducer for predictable state transitions
+- 🧠 useMemo for performance optimization
+- 🌍 Context API for global state sharing
 
 ![](./public/screenshot.png)
 
