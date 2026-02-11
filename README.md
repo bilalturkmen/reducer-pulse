@@ -3,7 +3,7 @@
 https://app-contextt.netlify.app/
 
 <div>
-  A Workout Timer Demo powered by useReducer, useMemo and Context API
+  Training project on useReducer, useMemo and Context API
 </div>
 
 ## 👍 My Challenges:
