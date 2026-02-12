@@ -1,6 +1,6 @@
-<h1>ReducerPulse</h1>
+<h1>PulseReducer</h1>
 
-https://reducerpulse.netlify.app/
+https://pulsereducer.netlify.app/
 
 <div>
   A training project demonstrating useReducer, Context API, and useMemo by building a workout interval timer.
@@ -13,7 +13,7 @@ https://reducerpulse.netlify.app/
 - Optimizing performance with useMemo.
 - Responsive design and clean component structure.
 
-![](./public/screeenshot.png)
+![](./public/screenshot.png)
 
 ## 🎉 Build With:
 

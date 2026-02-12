@@ -42,7 +42,7 @@ export default function App() {
             width={30}
             height={30}
           />
-          <h1>ReducerPulse</h1>
+          <h1>PulseReducer</h1>
           <span>a workout timer</span>
           <div>
             <time>{time}</time>
